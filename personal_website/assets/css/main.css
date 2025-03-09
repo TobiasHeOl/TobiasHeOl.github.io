@@ -2673,7 +2673,7 @@ input, select, textarea {
 			}
 
 	footer.major {
-		margin-top: 3em;
+		margin-top: 2em;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -2816,7 +2816,7 @@ input, select, textarea {
 		.features li {
 			width: calc(33.33333% - 2em);
 			margin-left: 2em;
-			margin-top: 3em;
+			margin-top: 2em;
 			padding: 0;
 		}
 
@@ -2835,7 +2835,7 @@ input, select, textarea {
 			}
 
 				.features li:nth-child(3) {
-					margin-top: 3em;
+					margin-top: 2em;
 				}
 
 		}
